@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425017956481",
+    "firebase_url": "https://testeprojeto-82986.firebaseio.com",
+    "project_id": "testeprojeto-82986",
+    "storage_bucket": "testeprojeto-82986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425017956481:android:00ea9b7844fa8fa1edd580",
+        "android_client_info": {
+          "package_name": "com.desapetapp.tccv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425017956481-c180geilk2q2aajbn9gnvmpf00v59s9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desapetapp.tccv4",
+            "certificate_hash": "1cc525d829f0ddfc8cf7b579830e06dc68936838"
+          }
+        },
+        {
+          "client_id": "425017956481-sf8jo7plqkbnl97hra74ifpsu4u4qqdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oB36gqOwd8Mm_oWfpsXmzWl51GSE_DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425017956481-sf8jo7plqkbnl97hra74ifpsu4u4qqdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
