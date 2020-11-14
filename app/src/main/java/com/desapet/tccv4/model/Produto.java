@@ -13,7 +13,7 @@ public class Produto {
 
     }
 
-    public String getIdentificadorProduto(String identificadorUsuarioLogado) {
+    public String getIdentificadorProduto() {
         return identificadorProduto;
     }
 

@@ -11,11 +11,11 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.desapet.tccv4.R;
 
-public class ProdutosAdapter extends RecyclerView.Adapter<ProdutosAdapter.MeuViewHolder> {
+class ProdutosAdaptador extends RecyclerView.Adapter<ProdutosAdaptador.MeuViewHolder> {
 
     public static Object MeuViewHolder;
 
-    public ProdutosAdapter(View view) {
+    public ProdutosAdaptador(View view) {
     }
 
     @NonNull
